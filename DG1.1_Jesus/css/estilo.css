@@ -1,0 +1,18 @@
+.fotocircular {
+    border-radius: 50%;
+}
+
+.centrar{
+    text-align: center;
+}
+
+.parrafo{
+    letter-spacing: 2px;
+    font-size: 1.6rem;
+}
+
+.container{
+    margin: 10px 600px 10px;
+    margin-top: 40px;
+    background-color: pink;
+}
